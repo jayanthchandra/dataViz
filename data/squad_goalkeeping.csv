@@ -1,4 +1,4 @@
-Squad,# Pl,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%
+Squad,# Pl,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CSPercentage,PKatt,PKA,PKsv,PKm,Save%
 nl Ajax,2,8,8,720,8.0,8,1.00,20,14,70.0,6,1,1,2,25.0,2,2,0,0,0.0
 it Atalanta,1,6,6,540,6.0,13,2.17,34,21,61.8,1,3,2,1,16.7,0,0,0,0,
 es Atlético Madrid,1,10,10,900,10.0,10,1.00,33,25,75.8,3,3,4,3,30.0,2,2,0,0,0.0
