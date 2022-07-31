@@ -110,7 +110,7 @@ async function init() {
             x: x_scale(parseInt(data.filter(d => d.Squad == "es Real Madrid")[0].Ast)),
         },{
             note: {
-                label: "Robert Lewandowski with  23 goals",
+                label: "Robert Lewandowski with 14 goals",
                 bgPadding: 20,
                 title: "Bayern Munich"
             },
